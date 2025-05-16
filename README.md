@@ -1,3 +1,3 @@
 # Education
 
-you can lear how to use some tools for analysing network linux and sql.
+you can learm how to use some tools for analysing network linux and sql.
